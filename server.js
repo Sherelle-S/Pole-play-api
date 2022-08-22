@@ -4,13 +4,13 @@ const PORT = 8000
 
 const move = {
      'Anastasia Frog':{
-    'difficulty' : 'Easy',
+    'difficulty' : 'Beginner',
     'fear factor' : 1.5,
     'Variations': ['Frog', 'Extended Frog'],
-    'contact points' : ['hands', 'thighs'],
+    'contact points' : ['hands', 'back of thighs','knee pits','calves'],
     },
     'Back/Front Hook Spin':{
-    'difficulty' : 'Easy',
+    'difficulty' : 'Beginner',
     'fear factor' : 1,
     'contact points': ['hands', 'back of the knee'],
     },
@@ -18,11 +18,11 @@ const move = {
     'Ballerina':{
         'difficulty' : 'Beginner',
         'fear factor' : 2,
-        'contact points' : ['hand', 'sidee', 'inner thigh', 'calf'],
+        'contact points' : ['hand', 'side', 'inner thigh', 'calf'],
     },
 
     'Climb and Hug Seat':{
-    'difficulty' : 'Easy',
+    'difficulty' : 'Beginner',
     'fear factor' : 1.5,
     'contact points' : ['hands', 'thighs'],
     },
@@ -34,14 +34,13 @@ const move = {
     },
 
     'Embrace':{
-    'difficulty' : 'Easy',
+    'difficulty' : 'Beginner',
     'fear factor' : 2,
-    'variations': ['Climb and Seat', 'Embrace'],
     'contact points' : ['elbows', 'Back of leading foot', 'leading shin', 'ankle of tailing foot', 'trailing calf'],
     },
 
     'Fake Titanic':{
-    'difficulty' : 'Easy',
+    'difficulty' : 'Beginner',
     'fear factor' : 1.5,
     'contact points' : ['hands', 'thighs'],
     },
@@ -53,19 +52,19 @@ const move = {
     },
     
     'Forearm Climb':{
-    'difficulty' : 'Easy',
+    'difficulty' : 'Beginner',
     'fear factor' : 1.5,
     'contact points' : ['hands', 'forearm','shin','ankle','calf','back of foot'],
     },
 
     'Fireman':{
-    'difficulty' : 'Easy',
+    'difficulty' : 'Beginner',
     'fear factor' : 1,
     'contact points': ['hands','top of leading foot', 'back of trailing ankle'],
     },
 
     'Floating Flamingo':{
-    'difficulty' : 'Benin-termediate',
+    'difficulty' : 'Begin-termediate',
     'fear factor' : 6,
     'contact points' : ['hand', 'thigh', 'Activated Core'],
     },
@@ -77,7 +76,7 @@ const move = {
     },
     
     'Hood Ornament':{
-    'difficulty' : 'Easy',
+    'difficulty' : 'Beginner',
     'fear factor' : 2.5,
     'contact points' : ['armpit', 'side','inner thigh','back of foot'],
     },
@@ -101,7 +100,7 @@ const move = {
     },
 
         'Layout':{
-    'difficulty' : 'Easy',
+    'difficulty' : 'Beginner',
     'fear factor' : 1.5,
     'contact points' : ['hands', 'thighs'],
     },
@@ -125,13 +124,13 @@ const move = {
     },
 
     'Teddy':{
-    'difficulty' : 'Easy',
+    'difficulty' : 'Beginner',
     'fear factor' : 1.5,
     'contact points' : ['hands', 'thighs', 'armpit','side'],
     },
 
     'Wrist Sit':{
-    'difficulty' : 'Easy',
+    'difficulty' : 'Beginner',
     'fear factor' : 1.5,
     'contact points' : ['hands', 'thighs'],
     },
