@@ -1,5 +1,7 @@
 # Pole-play-api
 
+![pole dancing iguana move](https://res.cloudinary.com/dft0cktie/image/upload/v1661355864/pexels-pixabay-270777_zr3v88.jpg)
+
 This is an API that details a list of beginner pole dance moves, their fear rating out of 10 (for me,) and the contact points necessary to complete the final pose.
 
 
