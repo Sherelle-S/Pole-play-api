@@ -156,6 +156,6 @@ app.get('/api/:moveName',(req, res)=>{
    
 })
 
-app.listen(PORT, ()=>{
-    console.log(`Your server is running. lets go!`)
+app.listen(process.env.PORT || PORT, ()=>{
+    console.log(`Your server is running on port ${PORT}!. lets go!`)
 })
